@@ -1,7 +1,6 @@
 ### Opa tudo bem 👋
 
-- 🔭 atualmente estou cursando o 3 ano do ensino medio.
-- 📚 estudando python e html.
+- 🔭 atualmente estou cursando Analise de Sistemas na Unicamp.
 - 👇🏾Quer entrar em contato? Me chame nas outras redes.
 
  
